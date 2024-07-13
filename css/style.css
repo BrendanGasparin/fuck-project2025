@@ -3,3 +3,16 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+html {
+    font-size: 16px;
+}
+
+body {
+    backround-color: #000000;
+}
+
+h1 {
+    font-family: Creepster, cursive;
+    color: #990000;
+}
